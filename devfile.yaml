@@ -5,7 +5,7 @@ projects:
   - name: quarkus-quickstarts
     source:
       type: git
-      location: 'https://github.ibm.com/National-Grid-FoB-PoT/model-answer-java'
+      location: 'git@github.ibm.com:National-Grid-FoB-PoT/model-answer-java.git'
       sparseCheckoutDir: getting-started-command-mode
       branch: main
 components:
